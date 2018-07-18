@@ -648,7 +648,7 @@ li {
 /*                      SECTION FUN FACTS                          */
 /*-----------------------------------------------------------------*/
 .facts {
-    background: url(http://placehold.it/740x270) center left no-repeat;
+    background: url("../assets/images/neurons.png") center left no-repeat;
     background-size: cover;
 }
 
@@ -990,7 +990,7 @@ li {
 /*                      SECTION CUSTOMERS                          */
 /*-----------------------------------------------------------------*/
 .customers {
-    background: url(http://placehold.it/740x270) center left no-repeat;
+    background: url("neurons.png") center left no-repeat;
     background-size: cover;
 }
 
