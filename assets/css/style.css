@@ -615,6 +615,7 @@ li {
     padding-right: 15px;
 }
 
+
 .about .intro ul.info li:first-child {
     padding-top: 0;
 }
@@ -1036,6 +1037,21 @@ li {
 
 .customers .owl-theme .owl-controls {
     margin-top: 24px;
+}
+
+.contact .intro ul.info {
+    margin-bottom: 40px;
+    padding: 0;
+    list-style: none;
+}
+
+.contact .intro ul.info li:before {
+    content: '\f0f4';
+    font-family: 'FontAwesome';
+    font-size: 14px;
+    color: #0C0C0C;
+    padding-right: 15px;
+    
 }
 
 /*-----------------------------------------------------------------*/
