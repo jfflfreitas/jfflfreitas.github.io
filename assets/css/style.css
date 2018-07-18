@@ -608,7 +608,7 @@ li {
 }
 
 .about .intro ul.info li:before {
-    content: '\f177';
+    content: '\f0f4';
     font-family: 'FontAwesome';
     font-size: 14px;
     color: #0C0C0C;
